@@ -1,0 +1,44 @@
+# 3D Google Dinosaur in Unity
+
+3D is the reincarnation of the classic browser dinosaur from Google Chrome, implemented on the Unity game engine. Run, jump and dodge cacti in a new 3D perspective!
+
+
+## 🦖 About the project
+
+This project is my interpretation of the famous mini—game "Dino Runner", which appears in Chrome when there is no internet connection. The main goal is to transfer the simple but addictive gameplay to a 3D space, preserving the spirit of the original, but adding a new visual dimension.
+
+**Key Features:** Fully 3D environment and character with a third-person view.\
+
+## ✨ Features
+
+* **3D Gameplay:** A classic runner, but with the opportunity to see the dinosaur and the world around it from new angles.
+*   **Simple operation:** Intuitive rules: jump 
+* **Increasing difficulty:** The game speed is gradually increasing
+* **Points system:** Collect points for passing obstacles
+* **Stylistics:** The graphics retain a low-poly or stylized appearance, which refers to the simple original.
+
+## 🎮 Management
+
+*   **Space — Jump
+
+## 🛠️ Technologies
+
+* **Engine:** Unity 6000.0.58f1
+* **Programming language:** C#
+* **Basic Tools:** UnityEngine, Unity UI for the interface.
+
+## 📦 Installation and Launch
+
+To run the project on your computer:
+
+1. **Download the RAR file:**
+* download the file from the repository
+   
+
+3. **Open the project in Unity:**
+* Make sure that you have the appropriate version of Unity installed (see above).
+    * Open the Unity Hub, click "Add" and select the project folder.
+
+4. **Run:**
+* In the Unity editor, set up the scenes (Main Scene, Game Scene)
+    * Press the "Play" button.
